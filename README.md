@@ -25,7 +25,7 @@ Course Link: https://ocw.mit.edu/courses/6-0001-introduction-to-computer-science
 | Object-Oriented Programming | Classes, inheritance |
 | Program Efficiency | Algorithmic complexity, searching and sorting |
 
-## Coursework
+## Coursework Done
 
 | Type | Count |
 |------|-------|

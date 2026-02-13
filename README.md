@@ -31,6 +31,17 @@ Course Homepage: https://ocw.mit.edu/courses/6-0001-introduction-to-computer-sci
 |------|-------|
 | Problem Sets | 6 |
 
+## Projects
+
+### [RSS Feed Filter with Trigger System](./Problem%20Set%205)
+A news feed filtering application with a deep OOP inheritance hierarchy implementing strategy and composite design patterns. Includes phrase, time, and logical (And/Or/Not) triggers that compose into complex filter rules, a configuration file parser for defining triggers declaratively, and a Tkinter GUI that polls RSS feeds on a background thread.
+
+### [Caesar Cipher and Substitution Cipher with OOP](./Problem%20Set%204)
+A recursive permutation generator connected to two encryption systems. A Caesar cipher with brute-force decryption (trying all 26 shifts, scoring by valid English words), and a substitution cipher that tries all 120 vowel permutations. Demonstrates class inheritance (Message -> PlaintextMessage/CiphertextMessage) and composing components across files.
+
+### [Scrabble-like Word Game with Wildcards](./Problem%20Set%203)
+A word game where players form words from dealt letter hands for points. Features wildcard support (the `*` character can substitute for any vowel during validation), hand substitution, and multi-hand game orchestration using dictionary-based hand management.
+
 ## My Other MIT Coursework
 
 [18.01SC Single Variable Calculus](https://github.com/BenyaminJazayeri/MIT-OCW-18.01SC-Single-Variable-Calculus-Fall-2010)<br>
